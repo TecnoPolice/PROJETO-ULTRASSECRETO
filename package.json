@@ -1,0 +1,24 @@
+{
+  "name": "projeto-ultrassecreto",
+  "version": "1.0.0",
+  "description": "Um projeto ultrassecreto mesmo, porém publico no github por questões de verbas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuschaves/projeto-ultrassecreto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuschaves/projeto-ultrassecreto/issues"
+  },
+  "homepage": "https://github.com/mateuschaves/projeto-ultrassecreto#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
